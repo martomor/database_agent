@@ -3,25 +3,25 @@
 
 This repository contains my notes and code for the [Building Your Own Database Agent](https://www.deeplearning.ai/short-courses/building-your-own-database-agent/) offered by DeepLearning AI.
 
-## Main Topics Covered
-- []
-- []
-- []
-- []
-
 
 ## Langchain Data Agents Summary
 
-TBD
+- **Natural Language to SQL Translation:** 
+  Leverage Azure OpenAI and LangChain to create agents that convert user inputs into executable SQL queries.
 
-**Main Features:**
+- **LangChain Orchestration:**
+  Implement LangChain to manage agent workflows and enable seamless database interactions based on natural language commands.
 
-1. []
-2. []
-3. []
-5. []
+- **Function Calling for Enhanced Efficiency and Security:**
+  Use Azure OpenAI’s function calling capability to send optimized and secure SQL queries, improving agent performance and safeguarding data operations.
+
+- **Assistants API Integration:**
+  Integrate with the Assistants API to streamline database connections, allowing you to create custom agents that efficiently handle database queries.
 
 
+**Data Base Agents:**
+
+![General Overview Agents](assets/general_overview_agents.png)
 
 ## How to use this repo
 
