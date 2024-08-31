@@ -3,6 +3,10 @@
 
 This repository contains my notes and code for the [Building Your Own Database Agent](https://www.deeplearning.ai/short-courses/building-your-own-database-agent/) offered by DeepLearning AI.
 
+***Note:*** Please note that I have changed some of the code from calling Azure OpenAI endpoints to calling OpenAI directly, as I don’t have Azure OpenAI available:
+
+- Notebooks L2 and L3 are calling OpenAI
+- Notebooks L4 and L5 are calling AzureOpenAI
 
 ## Langchain Data Agents Summary
 
